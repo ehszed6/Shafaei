@@ -1,4 +1,4 @@
-﻿vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BEupdateddd+jun23 
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafei-jun23-jul23%E2%97%BEupdated+jun23 
 
 
 vless://82afda67-711a-4ae1-89f5-789b182160d7@116.203.254.227:27194?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#EHS+VIP+1
