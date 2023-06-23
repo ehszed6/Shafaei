@@ -2,6 +2,8 @@ vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafa
 
 vless://a3e23ec0-4079-4ec2-854e-3f4d5b95537b@[::ffff:9d5a:98f5]:443?mode=multi&security=reality&encryption=none&pbk=db3KxsQdri7e7sckaGXjuhr6MgJrWuVNAZShYiSvvl0&fp=chrome&type=grpc&serviceName=Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup&sni=ftp.debian.org&sid=b7#%E2%97%BD%E2%97%BEVIP
 
+vless://ItsLegenderyking@185.237.12.153:443?mode=gun&security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=83a6629d#%E2%97%BD%E2%97%BEVIP+2
+
 vmess://eyJhZGQiOiI1MS4xOTUuMTI1LjE2IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0OTAyIiwicHMiOiJFSFMgVklQIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 
