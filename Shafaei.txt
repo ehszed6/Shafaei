@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jun24 10pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jun25
 
 
 vless://447ace7b-eaee-4322-d231-d9ff27bb2cd5@[::ffff:9d5a:98f5]:443?mode=multi&security=reality&encryption=none&pbk=qtVk-Jm4i8AkalfwYLDCHw9ZOdmZQj2ijf33hqQ8YS8&fp=chrome&type=grpc&serviceName=Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup&sni=ftp.debian.org&sid=b5fce67d#%E2%97%BE%E2%97%BDEHS+VIP
