@@ -1,5 +1,6 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jun26
 
+vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?mode=gun&security=reality&encryption=none&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&fp=chrome&spx=%2Fstorage&type=grpc&serviceName=&sni=mega.io&sid=07a9a22b#BEST
 
 vless://447ace7b-eaee-4322-d231-d9ff27bb2cd5@[::ffff:9d5a:98f5]:443?mode=multi&security=reality&encryption=none&pbk=qtVk-Jm4i8AkalfwYLDCHw9ZOdmZQj2ijf33hqQ8YS8&fp=chrome&type=grpc&serviceName=Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup&sni=ftp.debian.org&sid=b5fce67d#%E2%97%BE%E2%97%BDEHS+VIP
 
