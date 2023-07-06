@@ -6,3 +6,5 @@ vless://edaa02f4-0e16-4d79-b361-d0f2bef4be83@[0:0:0:0:0:ffff:808c:5314]:443?secu
 vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=277f9674#EHS+VIP+2
 
 vless://561679b9-3878-4ac7-9cbd-43980af74ad9@5.230.54.21:443?security=reality&encryption=none&pbk=L7mjxLFDZeWj2MyQfyhu8q3UtD3LuW0bgSvIaiQ0CQM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=62ab3a333640336e#EHS+VIP+3
+
+vless://61279bc7-6a16-4f1d-8f32-1bfb57d3f540@51.89.71.153:2096?mode=gun&security=reality&encryption=none&pbk=Xm9sIWN1qwjrkxVhUs8RYB9PFpmD5jUSyuYQ96fUPg8&fp=firefox&spx=%2F&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=Www.zula.ir&sid=a64db277#EHS+VIP+4
