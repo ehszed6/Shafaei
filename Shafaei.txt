@@ -10,3 +10,13 @@ vless://ItsLegenderyking@91.231.182.109:443?mode=gun&security=reality&encryption
 vless://ItsLegenderyking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=randomized&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=e05f9acb#EHS+VIP++4
 
 vless://ItsLegenderyking@94.131.3.113:443?mode=gun&security=reality&encryption=none&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=af3993a9#EHS+VIP++5
+
+
+vless://b44bd7e6-b0fd-4395-b4d7-39b8ff41e206@172.232.44.187:443?security=reality&encryption=none&pbk=UoFttoFzhVfO8Kg1ELY8gD0mL4pREgKz0l5H6d6naUU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eset.com&sid=585b29ca#EHS+VIP+1
+
+vless://373d565e-4b59-4c43-da37-3b77960ccc99@135.181.43.43:443?mode=multi&security=reality&encryption=none&pbk=T2HRxsftDuCIKIq_wbc3lLg-sO0eg9DNnD744FngtlU&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.speedtest.net&sid=62#EHS+VIP+2
+
+vless://e832bf0a-66ce-4bb6-97f1-ad1c663543f6@49.13.5.118:58642?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#EHS+VIP+3
+
+vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&spx=%2F&type=http&sni=ubuntu.com&sid=61138e86#EHS+VIP+4
+
