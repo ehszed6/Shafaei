@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jul8 3pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jul8 7pm
 
 
 vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=41deb0b8#EHS+VIP+1
