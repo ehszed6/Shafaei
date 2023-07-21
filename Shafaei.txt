@@ -1,19 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jul21 1am
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jul21 6pm
 
-vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=13a2a47c#EHS+VIP++1
+vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=a2779c9e#EHS+VIP++1
 
-vless://646a6f3b-46da-44c9-91e6-575f74cbff0d@104.31.16.16:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers&sni=free2.h3lixchannel.fun#EHS+VIP+2
+vless://ItsLegendaryking@193.35.18.189:443?security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=956e1be9#EHS+VIP++2
 
-vless://ItsLegendaryking@91.231.182.109:443?security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&headerType=none&fp=random&type=tcp&sni=www.zula.ir&sid=29db36dc#EHS+VIP++3
+vless://ItsLegendaryking@91.231.182.109:443?security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=40c5db0a#EHS+VIP++3
 
-vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=PGG2EYOvsFt2lAQTD7lqHeRxz2KxvllEDKcUrtizPBU&fp=randomized&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=f826e30d#EHS+VIP++4
+vless://AmirTechno_Service@116.203.165.166:8443?mode=gun&security=reality&encryption=none&pbk=mTW7frIK6khZkTgyFKoyo_69uvyVHej0ARvYRdldUEQ&fp=chrome&spx=%2Fapps%2Fandroid%2F&type=grpc&serviceName=@AmirTechno_Service,@AmirTechno_Service,@AmirTechno_Service&sni=www.speedtest.net&sid=f777770e#EHS+VIP+4
 
-vless://a4471c1c-54f7-4e11-c28f-6640b2ecba11@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=er7PmPRpeqZ4p6XWhbvcj76lWj0TnpjEJwsKe_Xz1xw&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cc6c334d#EHS+VIP+5
+vless://AmirTechno_Service@116.202.5.33:8443?mode=gun&security=reality&encryption=none&pbk=mTW7frIK6khZkTgyFKoyo_69uvyVHej0ARvYRdldUEQ&fp=chrome&spx=%2Fapps%2Fandroid%2F&type=grpc&serviceName=@AmirTechno_Service,@AmirTechno_Service,@AmirTechno_Service&sni=www.speedtest.net&sid=f777770e#EHS+VIP+5
 
+vless://96ce7946-ac0c-4dcb-d095-fd6f46122d80@65.109.203.231:2083?mode=gun&security=reality&encryption=none&pbk=tQJCkwmB37aOLAtt4d95-uYhPtKyG9K-D0A3tc2hMW8&fp=chrome&type=grpc&serviceName=xyz&sni=debian.org&sid=5fd9b45c#EHS+VIP+6
 
-
-vless://93733cba-4923-4163-9127-1000733434aa@91.107.200.123:443?security=reality&encryption=none&alpn=h2,http/1.1&pbk=itEjig2rzArzXwItVDYr4o2wlhCHGflmQiFICqeU3Q8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=875b04570cc9a8ce#EHS+VIP+6
-
-vless://f66ec13f-6e61-4568-b7a1-09ba69070e0b@91.107.214.196:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=tag.TrV2ray.cfd#EHS+VIP+7
-
-vless://93733cba-4923-4163-9127-1000733434aa@91.107.200.123:443?security=reality&encryption=none&alpn=h2,http/1.1&pbk=itEjig2rzArzXwItVDYr4o2wlhCHGflmQiFICqeU3Q8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=875b04570cc9a8ce#EHS+VIP+8
