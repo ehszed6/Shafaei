@@ -1,17 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jul21 11pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#❌JUN24❌shafaei-jun23-jul23%E2%97%BE%E2%97%BDupdated+jul23 3pm
 
 
-vless://4366f95c-37a6-42f2-bbe3-125893bb66d4@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=er7PmPRpeqZ4p6XWhbvcj76lWj0TnpjEJwsKe_Xz1xw&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cc6c334d#EHS+VIP+7
-
-vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=a2779c9e#EHS+VIP++1
-
-vless://ItsLegendaryking@193.35.18.189:443?security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=956e1be9#EHS+VIP++2
+vless://Parsashonam@91.107.220.168:443?mode=gun&security=reality&encryption=none&pbk=rjunbBX_7doJEOUJbfF3xNx5SOxqnwTkAVRllKA5wjg&fp=firefox&spx=%2F&type=grpc&serviceName=@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam&sni=www.speedtest.net&sid=890b1fed#EHS+VIP+1
 
 vless://ItsLegendaryking@91.231.182.109:443?security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=40c5db0a#EHS+VIP++3
 
-vless://AmirTechno_Service@116.203.165.166:8443?mode=gun&security=reality&encryption=none&pbk=mTW7frIK6khZkTgyFKoyo_69uvyVHej0ARvYRdldUEQ&fp=chrome&spx=%2Fapps%2Fandroid%2F&type=grpc&serviceName=@AmirTechno_Service,@AmirTechno_Service,@AmirTechno_Service&sni=www.speedtest.net&sid=f777770e#EHS+VIP+4
+vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=740576b7#EHS+VIP+2
 
-vless://AmirTechno_Service@116.202.5.33:8443?mode=gun&security=reality&encryption=none&pbk=mTW7frIK6khZkTgyFKoyo_69uvyVHej0ARvYRdldUEQ&fp=chrome&spx=%2Fapps%2Fandroid%2F&type=grpc&serviceName=@AmirTechno_Service,@AmirTechno_Service,@AmirTechno_Service&sni=www.speedtest.net&sid=f777770e#EHS+VIP+5
+vless://ItsLegendaryking@91.231.182.109:443?security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=26fc7724#EHS+VIP+4
 
-vless://96ce7946-ac0c-4dcb-d095-fd6f46122d80@65.109.203.231:2083?mode=gun&security=reality&encryption=none&pbk=tQJCkwmB37aOLAtt4d95-uYhPtKyG9K-D0A3tc2hMW8&fp=chrome&type=grpc&serviceName=xyz&sni=debian.org&sid=5fd9b45c#EHS+VIP+6
-
+vless://ItsLegendaryking@94.242.53.32:443?mode=gun&security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=610e8209#EHS+VIP+5
