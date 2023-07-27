@@ -1,4 +1,7 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+jul26
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+jul27
+
+
+vless://30376d08-eb0d-450d-9280-1a8dce3018f5@185.231.181.11:47749?security=none&encryption=none&host=aionet.ir&headerType=http&type=tcp#EHS+VIP
 
 
 vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=852f3042#EHS+VIP+1
