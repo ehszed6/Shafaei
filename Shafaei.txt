@@ -1,14 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+jul27 8pm
-
-
-vless://30376d08-eb0d-450d-9280-1a8dce3018f5@185.231.181.11:47749?security=none&encryption=none&host=aionet.ir&headerType=http&type=tcp#EHS+VIP
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+jul28
 
 
 
-vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=f94414ba#EHS+VIP+1
+vless://9951b209-6567-4cd6-c48d-042ba51c28f9@[0:0:0:0:0:ffff:808c:5314]:443?security=reality&encryption=none&pbk=er7PmPRpeqZ4p6XWhbvcj76lWj0TnpjEJwsKe_Xz1xw&host=www.speedtest.net&headerType=http&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cc6c334d#EHS+VIP+1
 
-vless://ItsLegendaryking@193.35.18.189:443?mode=gun&security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=211d7816#EHS+VIP+2
 
-vless://isArsham@49.13.28.87:443?security=reality&encryption=none&pbk=Y2-uLqCHqspBXRydoqNqCyaBfeuN71XxdolqC0Tr82I&headerType=none&fp=chrome&type=tcp&sni=game-center.ir#EHS+VIP+3
+vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=d80321ed#EHS+VIP+2
 
-vless://2c9a2502-996e-420c-bcf5-46c29dca59f8@[::ffff:2d09:bc69]:2096?security=reality&encryption=none&pbk=FnCK_gf4RQF9vsAJ-JJ01QDiZgtFnuzn91KjuZ9dqyQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=2bf17609#EHS+VIP+4
+vless://ItsLegendaryking@193.35.18.189:443?mode=gun&security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=936ae151#EHS+VIP+3
+
+vless://2c9a2502-996e-420c-bcf5-46c29dca59f8@[::ffff:2d09:bc69]:2096?security=reality&encryption=none&pbk=FnCK_gf4RQF9vsAJ-JJ01QDiZgtFnuzn91KjuZ9dqyQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=2bf17609#EHS+VIP+4+
