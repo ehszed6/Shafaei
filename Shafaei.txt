@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+jul2911pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+jul30
 
 
 vless://ItsLegendaryking@91.231.182.109:443?mode=gun&security=reality&encryption=none&pbk=CjulQ2qVIky7ImIfysgQhNX7s_drGLheCGSkVHcLZhc&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=dfab2aef#EHS+VIP+5
@@ -17,3 +17,5 @@ vmess://eyJhZGQiOiIxODUuMjEyLjYzLjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI3OC40Ny4yNi4xMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiI0NjVhMTRiYS1jOGI0LTRiMjItOGQyOC03ZjE2MTVjYzM3ZDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg3IiwicHMiOiJFSFMgVklQIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=d26180f2#EHS+VIP+5
+
+vless://62aa1b41-0a45-4c50-83b9-27726f065912@[0:0:0:0:0:ffff:9d5a:98f5]:443?mode=multi&security=reality&encryption=none&pbk=s-Kuol_LUzyn-6YDG26O_Ze0_yEb-JXDrqA1OoRdjAU&fp=chrome&type=grpc&serviceName=Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup&sni=www.speedtest.net&sid=3d442c6b#EHS+VIP+9
