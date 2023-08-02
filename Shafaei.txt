@@ -1,15 +1,15 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug2
-
-vless://ItsLegendaryking@49.13.60.91:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=c9ebb8f8#EHS+VIP+1
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug2 3pm
 
 
+vless://ItsLegendaryking@94.131.3.113:443?mode=gun&security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=6c1c662b#EHS+VIP+1
 
-vless://62aa1b41-0a45-4c50-83b9-27726f065912@[0:0:0:0:0:ffff:9d5a:98f5]:443?mode=multi&security=reality&encryption=none&pbk=s-Kuol_LUzyn-6YDG26O_Ze0_yEb-JXDrqA1OoRdjAU&fp=chrome&type=grpc&serviceName=Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup&sni=www.speedtest.net&sid=3d442c6b#EHS+VIP+2
+vless://ItsLegendaryking@46.29.235.36:443?mode=gun&security=reality&encryption=none&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=ef2d84f0#EHS+VIP+2
+
+vless://2a8e5c14-eccd-4fbd-eb6b-d94baa20f1ba@95.164.84.176:8443?mode=gun&security=reality&encryption=none&pbk=tcg8w7rBktb40_IDiAIGYROGLbhx5_sOrjeUzrNcJFA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,&sni=zula.ir#EHS+VIP+3
 
 
+vmess://eyJhZGQiOiIxNDAuODIuMzQuMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imx1LjByZC5uZXQiLCJpZCI6IjY1ZmRlNDIwLTJmNmYtMTFlZS1iNjM2LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaG9wZXYycmF5IiwicG9ydCI6IjQ0MyIsInBzIjoiRUhTIFZJUCA0Iiwic2N5IjoiYXV0byIsInNuaSI6Imx1LjByZC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://ItsLegendaryking@65.21.153.40:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=95145e4a#EHS+VIP+3
+vless://89e82b97-5b5c-469f-c0e7-73aea44df3f5@172.232.55.177:32112?mode=gun&security=reality&encryption=none&pbk=CehVNLfLSxlYtn6FsZXxjwwtNKDa1hot3xcY1qhFB2w&fp=chrome&type=grpc&serviceName=nowtimetoserviceforfree&sni=www.discordapp.com&sid=a4c0894c#EHS+VIP+5
 
-
-vless://AmirTechno_Service@195.201.235.159:443?security=reality&encryption=none&pbk=k0hO-RjE2fA1LsLvayhxa_wPZMC_JgAOcNJnesw1QhY&headerType=none&fp=chrome&spx=%2Fapp%2F&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&sid=b610f739#EHS+VIP+4
-vless://AmirTechno_Service@88.198.90.211:443?security=reality&encryption=none&pbk=k0hO-RjE2fA1LsLvayhxa_wPZMC_JgAOcNJnesw1QhY&headerType=none&fp=chrome&spx=%2Fapp%2F&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&sid=b610f739#EHS+VIP+5
+vmess://eyJhZGQiOiIxNjMuMTcyLjE2MC4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iYWlkdS5jb20iLCJpZCI6IjMzNzBhM2VjLWU3NmUtNGM5NC1hNjgyLTc4MGNiNjcyODU5OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk1MCIsInBzIjoiRUhTIFZJUCA2Iiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
