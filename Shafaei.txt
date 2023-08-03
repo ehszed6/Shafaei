@@ -1,5 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug3
 
+vless://f277166f-19ad-4a0f-b9ae-ab7605558d2c@95.164.84.176:8443?mode=gun&security=reality&encryption=none&pbk=tcg8w7rBktb40_IDiAIGYROGLbhx5_sOrjeUzrNcJFA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,&sni=zula.ir#EHS+VIP
+
+
+vless://Hopev2ray@91.107.254.188:443?security=reality&encryption=none&pbk=zNXeqxLhKoYhxXhi5fwODGhTDmG-vQ7dDcrTEx2IDCQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=debian.org&sid=002e56be#EHS+VIP
 
 vless://ItsLegendaryking@135.181.44.79:443?mode=gun&security=reality&encryption=none&pbk=NkA-y03resTwzLWpbyDmxGQWlQgSNPy6ZX5C7ItPjBk&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=3f215891#EHS+VIP
 
