@@ -1,5 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug3
 
+
+vless://AntiFilterChaV2@104.31.16.65:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=mt.HrV2ray.cfd#EHS+VIP+0
+
 vless://f277166f-19ad-4a0f-b9ae-ab7605558d2c@95.164.84.176:8443?mode=gun&security=reality&encryption=none&pbk=tcg8w7rBktb40_IDiAIGYROGLbhx5_sOrjeUzrNcJFA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,&sni=zula.ir#EHS+VIP
 
 
