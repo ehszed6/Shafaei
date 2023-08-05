@@ -1,27 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug3
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug5
 
 
-vless://AntiFilterChaV2@104.31.16.65:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=mt.HrV2ray.cfd#EHS+VIP+0
+vless://ItsLegendaryking@49.13.54.166:443?mode=gun&security=reality&encryption=none&pbk=qCZUdWQZ2H33vWXnOkG8NpxBeq3qn5QWXlfCOWBNkkc&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=bb985e1b#EHS+VIP+1
 
-vless://f277166f-19ad-4a0f-b9ae-ab7605558d2c@95.164.84.176:8443?mode=gun&security=reality&encryption=none&pbk=tcg8w7rBktb40_IDiAIGYROGLbhx5_sOrjeUzrNcJFA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,&sni=zula.ir#EHS+VIP
+vless://ItsLegenadryking@194.87.31.66:443?mode=gun&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=2b6bc4b3#EHS+VIP+2
 
-
-vless://Hopev2ray@91.107.254.188:443?security=reality&encryption=none&pbk=zNXeqxLhKoYhxXhi5fwODGhTDmG-vQ7dDcrTEx2IDCQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=debian.org&sid=002e56be#EHS+VIP
-
-vless://ItsLegendaryking@135.181.44.79:443?mode=gun&security=reality&encryption=none&pbk=NkA-y03resTwzLWpbyDmxGQWlQgSNPy6ZX5C7ItPjBk&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=3f215891#EHS+VIP
-
-vless://d3c0926c-f4dd-4621-fdf0-2ce8d0c9eaf6@140.82.34.34:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray Telegram:@hopev2ray&sni=hopev2rayme.hopeserver.tech#EHS+VIP+2
+vless://ItsLegendaryking@91.231.182.109:443?mode=gun&security=reality&encryption=none&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=e8af4eb5#EHS+VIP+3
 
 
-vless://ItsLegendaryking@94.131.3.113:443?mode=gun&security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=6c1c662b#EHS+VIP+1
-
-vless://ItsLegendaryking@46.29.235.36:443?mode=gun&security=reality&encryption=none&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=ef2d84f0#EHS+VIP+2
-
-vless://2a8e5c14-eccd-4fbd-eb6b-d94baa20f1ba@95.164.84.176:8443?mode=gun&security=reality&encryption=none&pbk=tcg8w7rBktb40_IDiAIGYROGLbhx5_sOrjeUzrNcJFA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,Telegram:@hopev2ray,&sni=zula.ir#EHS+VIP+3
-
-
-vmess://eyJhZGQiOiIxNDAuODIuMzQuMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imx1LjByZC5uZXQiLCJpZCI6IjY1ZmRlNDIwLTJmNmYtMTFlZS1iNjM2LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaG9wZXYycmF5IiwicG9ydCI6IjQ0MyIsInBzIjoiRUhTIFZJUCA0Iiwic2N5IjoiYXV0byIsInNuaSI6Imx1LjByZC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vless://89e82b97-5b5c-469f-c0e7-73aea44df3f5@172.232.55.177:32112?mode=gun&security=reality&encryption=none&pbk=CehVNLfLSxlYtn6FsZXxjwwtNKDa1hot3xcY1qhFB2w&fp=chrome&type=grpc&serviceName=nowtimetoserviceforfree&sni=www.discordapp.com&sid=a4c0894c#EHS+VIP+5
-
-vmess://eyJhZGQiOiIxNjMuMTcyLjE2MC4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iYWlkdS5jb20iLCJpZCI6IjMzNzBhM2VjLWU3NmUtNGM5NC1hNjgyLTc4MGNiNjcyODU5OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk1MCIsInBzIjoiRUhTIFZJUCA2Iiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
