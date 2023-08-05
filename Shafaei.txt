@@ -8,3 +8,4 @@ vless://ItsLegenadryking@194.87.31.66:443?mode=gun&security=reality&encryption=n
 vless://ItsLegendaryking@91.231.182.109:443?mode=gun&security=reality&encryption=none&pbk=d9cGLVBrDFS02L2OvkqyqwFZ1Ux3AHs28ehl4Rwiyl0&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=e8af4eb5#EHS+VIP+3
 
 
+vless://8137dc77-8d1a-4449-8297-b5ec447ccbc4@[0000:0000:0000:0000:0000:ffff:a7eb:ccce]:443?mode=multi&security=reality&encryption=none&pbk=KHmwtNXrh4VssUQS61U22mJps-qifooG__AwHI3Atik&fp=chrome&spx=%2Fapps%2Fwindows&type=grpc&serviceName=Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup,Telegram:@v2rayNGup&sni=www.speedtest.net&sid=0330424f#EHS+VIP+4
