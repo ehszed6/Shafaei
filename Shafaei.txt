@@ -1,4 +1,4 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug6
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug7
 
 vless://d382a251-0314-431f-a213-fcd2a65e6668@[0000:0000:0000:0000:0000:ffff:a7eb:ccce]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+5
 
