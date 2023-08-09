@@ -1,5 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug9
 
+
+vless://b39d51fa-ed08-4454-83de-eed87a592e54@104.31.16.65:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@free_v2rayyy&sni=Free-V2rayyy.Mamaliam.Site#EHS+VIP
+
 vless://AmirTechno_Service@49.13.70.17:443?security=reality&encryption=none&pbk=umgNXZDznO8bzCiFvDl630tK-CorJMAp_TRHtIMz2kY&headerType=none&fp=chrome&spx=%2Fapp%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=ca569193#EHS+VIP+1
 
 vless://AntiFilterChV2@all-antifilterch.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=mt.HrV2ray.cfd#EHS+VIP+2
