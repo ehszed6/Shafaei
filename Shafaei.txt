@@ -1,5 +1,5 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug8
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug9
 
-vless://743e81e4-7b64-4849-d79c-4b8de18306a8@[2a01:4f8:c012:d11a::1]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+1
+vless://AmirTechno_Service@49.13.70.17:443?security=reality&encryption=none&pbk=umgNXZDznO8bzCiFvDl630tK-CorJMAp_TRHtIMz2kY&headerType=none&fp=chrome&spx=%2Fapp%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=ca569193#EHS+VIP+1
 
-vless://828191fd-0ee8-4968-a655-482952a44011@[0000:0000:0000:0000:0000:ffff:a7eb:ccce]:443?security=reality&encryption=none&pbk=8-ASVpVNyn7LElutTvqrwnoGiCgnCe7FOuI4-FRQ4xQ&headerType=none&fp=chrome&spx=%2Fapps%2Fwindows&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=632cfb49#EHS+VIP+2
+vless://AntiFilterChV2@all-antifilterch.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=mt.HrV2ray.cfd#EHS+VIP+2
