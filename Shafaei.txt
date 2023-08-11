@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug9 3pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug11
+
+vless://ItsLegendaryking@49.13.25.80:443?mode=gun&security=reality&encryption=none&pbk=fCUsrIMhSAHtT5aJnoOyP9HAmD2M7OYOYZfEE9otXQw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=e780e0fa#EHS+VIP+1
+
+vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=s8RkHm7_rnMWSxGYzWt5RrWx84sIVoufM2tdrZXY3GE&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mega.io&sid=7ebde3b5#EHS+VIP+2
+
+vless://thend@128.140.91.234:443?mode=gun&security=reality&encryption=none&pbk=PT8QlpG_r0IH3XHQyT3-BzweJ_1afcXuW_j_ITlvVRA&fp=chrome&type=grpc&serviceName=&sni=game-center.ir#EHS+VIP+3
 
 
 
