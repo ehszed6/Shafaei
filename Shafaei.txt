@@ -1,5 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug12
 
+
+vless://dd754357-1998-4e6a-eaf9-fb985ed4707f@[::ffff:310d:4137]:443?security=reality&encryption=none&pbk=IPmvEktYXYFa5g1gdaN2F_nuoGXtcrdbLDAFqXw2AjM&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=5eae8f6d#EHS+VIP+0
+
 vless://ItsDgNmt@49.13.64.86:443?security=reality&encryption=none&pbk=Bgva9QaXb3LpV52dWN-_NFf-mK1owq8fFaetWQS1-w8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=game-center.ir&sid=443a1db7#EHS+VIP+1
 
 vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=s8RkHm7_rnMWSxGYzWt5RrWx84sIVoufM2tdrZXY3GE&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mega.io&sid=7ebde3b5#EHS+VIP+2
