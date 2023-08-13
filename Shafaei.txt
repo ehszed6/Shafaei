@@ -1,4 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug12
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug13
+
+
+
+vless://ItsLegendaryking@78.47.9.30:443?mode=gun&security=reality&encryption=none&pbk=qZjE66OgTd02vwBTwgEs8b6nppZee0zdTASho1K_JkE&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=game-center.ir&sid=2a61d932#EHS+VIP+1
+
+vless://Legendaryking@103.45.246.38:443?mode=gun&security=reality&encryption=none&pbk=FJmpoMzSYZlVvjZsIteH376Tv22tWc-xKgv-TfqR03o&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=game-center.ir&sid=6db401b6#EHS+VIP+2
+
+vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=Q8XXQrCJThObDUW9bMT_RyD5wfP_HO54xMCArVOasE8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=help.mega.io&sid=87fdd941#EHS+VIP+3
+
+vless://c820c550-74bc-4900-b40d-2d4140372e7e@193.176.179.195:55138?mode=gun&security=reality&encryption=none&pbk=6m3cwa4uXXHEAEXBRqR9YKOIFwvsSl8K4fs4KbUvQlU&fp=chrome&spx=%2F&type=grpc&serviceName=@free_v2rayyy @free_v2rayyy @free_v2rayyy @free_v2rayyy&sni=www.speedtest.net&sid=eea730da#EHS+VIP+4
 
 
 vless://dd754357-1998-4e6a-eaf9-fb985ed4707f@[::ffff:310d:4137]:443?security=reality&encryption=none&pbk=IPmvEktYXYFa5g1gdaN2F_nuoGXtcrdbLDAFqXw2AjM&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=5eae8f6d#EHS+VIP+0
