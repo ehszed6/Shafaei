@@ -1,5 +1,8 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug13
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug14
 
+vless://67330baa-ea2b-4186-878a-a627652d50b7@all-antifilterch.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=uu.HrV2ray.cfd#EHS+VIP 
+
+vless://b276a47a-0ea4-48dd-9ad2-e83afb0e0da2@all-antifilterch.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=mt.HrV2ray.cfd#EHS+VIP
 
 
 vless://ItsLegendaryking@78.47.9.30:443?mode=gun&security=reality&encryption=none&pbk=qZjE66OgTd02vwBTwgEs8b6nppZee0zdTASho1K_JkE&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=game-center.ir&sid=2a61d932#EHS+VIP+1
