@@ -1,5 +1,10 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug15
 
+vless://a9305f46-10e1-46f9-899d-f080090ab769@2doublelif3medal.minecraft.pe:4840?security=reality&encryption=none&pbk=kLd63WGYvRHwpB1e0YSsH0d9uye-7woRXuWVsQnrvBk&headerType=none&fp=safari&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-DarkVPNpro&type=tcp&flow=xtls-rprx-vision&sni=xda-developers.com&sid=d7abdec7#EHS+VIP
+
+vless://00080194-f2ba-44f3-a026-8fafbcbc0596@5.42.95.18:5010?mode=gun&security=reality&encryption=none&pbk=zPwQ2tV_r7ANZlbQIBzkUv-YcUVMqhPYh-mcmNp7G1M&fp=chrome&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-DarkVPNpro&type=grpc&serviceName=&sni=debian.org&sid=4c0582d9#EHS+VIP
+
+vless://536f6351-94de-4ebe-9634-d7e4dc953780@h3artstone.minecraft.pe:3305?mode=gun&security=reality&encryption=none&pbk=HCCMTre0Q1gJMF-0EGN5N26LWZc334NieVSHbAV0qQE&fp=firefox&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-DarkVPNpro&type=grpc&serviceName=&sni=tgju.org&sid=d982c0b6#EHS+VIP
 
 
 
