@@ -1,18 +1,14 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug16
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug17
 
 
-vless://a9305f46-10e1-46f9-899d-f080090ab769@2doublelif3medal.minecraft.pe:4840?security=reality&encryption=none&pbk=kLd63WGYvRHwpB1e0YSsH0d9uye-7woRXuWVsQnrvBk&headerType=none&fp=safari&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-DarkVPNpro&type=tcp&flow=xtls-rprx-vision&sni=xda-developers.com&sid=d7abdec7#EHS+VIP
-
-vless://00080194-f2ba-44f3-a026-8fafbcbc0596@5.42.95.18:5010?mode=gun&security=reality&encryption=none&pbk=zPwQ2tV_r7ANZlbQIBzkUv-YcUVMqhPYh-mcmNp7G1M&fp=chrome&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-DarkVPNpro&type=grpc&serviceName=&sni=debian.org&sid=4c0582d9#EHS+VIP
+vless://36ce61f7-ec31-4637-8aa5-2a9239df6188@5.161.217.77:50442?mode=gun&security=reality&encryption=none&pbk=25Jg25GABBp5D_ivSSc-fSESqWWdMb902umJ23b81Q8&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT&sni=ftp.debian.org&sid=a9f475bf#EHS+VIP+
 
 vless://74c9ccc3-985b-4aba-ac4a-2b8596ba2623@[2a01:4f8:c012:5287::1]:443?security=reality&encryption=none&pbk=IPmvEktYXYFa5g1gdaN2F_nuoGXtcrdbLDAFqXw2AjM&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=5eae8f6d#EHS+VIP+0
 
-vless://ccd57f7e-8dd1-45ba-a312-c3bd8009e018@5.75.141.188:41795?mode=gun&security=reality&encryption=none&pbk=hoCEIt4hwGPjXjOtq9M0DElyfOOSFHpNmYZ8ru2rMms&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=yahoo.com&sid=87011aef#EHS+VIP
+vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=MVSZCoW5SvyT2_Z_fLBZsqbRtu8o1XQb8Cd_WIY47RA&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=lichess.org&sid=61934f02#EHS+VIP
 
-vless://17ff142b-4036-4be0-ae51-c8d304db98e9@104.31.16.65:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy&sni=dl.SpV2ray.cfd#EHS+VIP
+vless://ItsLegendaryking@49.13.65.234:443?path=%2F%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers&security=reality&encryption=none&pbk=-JLQwPMjkCT9QEXifk6X3dCsJDybl5nbDI4HipbiCDs&fp=chrome&spx=%2F&type=http&sni=lichess.org&sid=d93b01dd#EHS+VIP
 
-vless://5134627d-5144-4bb6-9fed-aaf008cf4622@104.20.27.27:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy&sni=dl.SpV2ray.cfd#EHS+VIP
+vless://173421a1-a580-4265-bbc4-2ca20f760b8d@st0neh3arts.minecraft.pe:4840?security=reality&encryption=none&pbk=JUFgtZgl1TxpemppMTvXywMH56o1vKV7As1I0U-8KwU&host=atrsun.com&headerType=http&fp=firefox&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-DarkVPNpro&type=tcp&sni=www.esri.com&sid=1e4a9411#EHS+VIP
 
-vless://7c6e9189-f48f-4749-a280-9e7258b99721@104.31.16.197:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT&sni=mci-rightel-talia-mokhaberat.irancell-irancell.website#EHS+VIP
 
-vless://36ce61f7-ec31-4637-8aa5-2a9239df6188@5.161.217.77:50442?mode=gun&security=reality&encryption=none&pbk=25Jg25GABBp5D_ivSSc-fSESqWWdMb902umJ23b81Q8&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT&sni=ftp.debian.org&sid=a9f475bf#EHS+VIP 
