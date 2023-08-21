@@ -1,35 +1,15 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug21
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug21 10pm
+
+vless://67467ef9-f328-4660-bc8f-cecf1dfd99ac@168.119.111.248:42353?mode=gun&security=reality&encryption=none&pbk=ocweAvibfcwRxiznPZ7arLBaM6zTQm4oLhnj6BNs_VM&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=speed.cloudflare.com&sid=855eaa1a#EHS+VIP
+
+vless://e7782785-fcc0-4f95-9eb4-7ac9363153aa@78.47.185.81:23998?mode=gun&security=reality&encryption=none&pbk=5dciYd1UOD-ttREKcum8WpVurOF6vm_BvbnhOshfZg4&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=www.speedtest.net&sid=dcf8a570#EHS+VIP
 
 
-vless://f8189818-9785-4d1c-eb7c-096ba0a0ce45@45.131.4.21:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=tm.HrV2ray.cfd#EHS+VIP
+vless://f8189818-9785-4d1c-eb7c-096ba0a0ce45@45.159.216.88:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=antifilterchv.HrV2ray.cfd#EHS+VIP
 
-vless://d9411cf7-28e0-43c9-debc-eeeaed8109a4@45.131.4.21:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=antifilterchv2.HrV2ray.cfd#EHS+VIP
-
-vless://13d3c115-b76e-4c8d-a026-236fb731b497@128.140.120.204:59192?mode=gun&security=reality&encryption=none&pbk=zmCDRgyjPTq3isYqM9dOd2vIGOPVyZ2Jaa7yh760zGI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=speed.cloudflare.com&sid=f3eead7b#EHS+VIP
-
-vless://e23cfcd9-05c3-4146-96a4-f8d30ec7718d@[::ffff:c3c9:eb0e]:443?security=reality&encryption=none&pbk=c7vzV-BV52EIVlyboOBCiB0GoLRG9eLdcTh1fUd10xU&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=7bd362fd#EHS+VIP+0
-
-
-
-vless://9f8ccefb-fe9c-4ca5-8910-c945e6554d1e@91.107.208.55:31087?mode=gun&security=reality&encryption=none&pbk=f81KXDMoK-JDmFnfy0uOOtVxIWLOL1E8qHyvZz1t1C8&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=www.speedtest.net&sid=dba474af#EHS+VIP
+vless://78a3005c-e797-41dd-faeb-b2258fe2b50d@45.159.216.88:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=antifilterchv2.HrV2ray.cfd#EHS+VIP
 
 vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=zVWp9mWcyN5g-tHe4_m0V0H6Ewkc0pH7TS2V_lZKp3E&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=6a8bfdb9#EHS+VIP
 
-vless://ItsLegendaryking@188.241.243.192:443?mode=gun&security=reality&encryption=none&pbk=mB1zZ9LxUIAWMj43DBGSDXgSFhlv8plw7n6tTob1Hko&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=lichess.org&sid=fb2fe9db#EHS+VIP
-
-vless://ItsLegendaryking@49.13.64.84:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=cEreblfbqZAeF_34DwNbtwi-FjYLUjNEgu2YE4zSZ20&fp=chrome&spx=%2F&type=http&sni=mihanyas.ir&sid=4b36317e#EHS+VIP
-
-vless://cebca4e0-bd2e-4c08-a52c-6b1ac2f16a73@[::ffff:c3c9:eb0e]:443?security=reality&encryption=none&pbk=c7vzV-BV52EIVlyboOBCiB0GoLRG9eLdcTh1fUd10xU&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=7bd362fd#EHS+VIP
-
-
-vless://36ce61f7-ec31-4637-8aa5-2a9239df6188@5.161.217.77:50442?mode=gun&security=reality&encryption=none&pbk=25Jg25GABBp5D_ivSSc-fSESqWWdMb902umJ23b81Q8&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT&sni=ftp.debian.org&sid=a9f475bf#EHS+VIP+
-
-vless://74c9ccc3-985b-4aba-ac4a-2b8596ba2623@[2a01:4f8:c012:5287::1]:443?security=reality&encryption=none&pbk=IPmvEktYXYFa5g1gdaN2F_nuoGXtcrdbLDAFqXw2AjM&host=khamenei.ir&headerType=http&fp=chrome&spx=%2Fdirectory%2Fdatabase%2Fwindows%2F&type=tcp&sni=sourceforge.net&sid=5eae8f6d#EHS+VIP+0
-
-vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=MVSZCoW5SvyT2_Z_fLBZsqbRtu8o1XQb8Cd_WIY47RA&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=lichess.org&sid=61934f02#EHS+VIP
-
-vless://ItsLegendaryking@49.13.65.234:443?path=%2F%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers-%40LegenderY_Servers&security=reality&encryption=none&pbk=-JLQwPMjkCT9QEXifk6X3dCsJDybl5nbDI4HipbiCDs&fp=chrome&spx=%2F&type=http&sni=lichess.org&sid=d93b01dd#EHS+VIP
-
-vless://173421a1-a580-4265-bbc4-2ca20f760b8d@st0neh3arts.minecraft.pe:4840?security=reality&encryption=none&pbk=JUFgtZgl1TxpemppMTvXywMH56o1vKV7As1I0U-8KwU&host=atrsun.com&headerType=http&fp=firefox&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-DarkVPNpro&type=tcp&sni=www.esri.com&sid=1e4a9411#EHS+VIP
 
 
