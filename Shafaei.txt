@@ -1,4 +1,11 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug23 4pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug24
+
+
+vless://f921efc0-c3a8-4b9e-825d-9b8941ff2c30@162.55.215.186:47679?mode=gun&security=reality&encryption=none&pbk=TdGtnWRoyv-SuJjAM68JJ3ZhOMukpBbfru6lclOxTn0&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=26494967#EHS+VIP
+
+vless://ItsLegendaryking@91.219.148.231:443?mode=gun&security=reality&encryption=none&pbk=zHzIqqhTf6nNg1EfaGQrGS69YG3Y2GNwwe4Bn6XUiAg&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=1b06fba2#EHS+VIP
+
+vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=ihcEb5J55OSr5I19SJud1V_UEDGDWDJ1Z_tyitpWyVA&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=154dd8a0#EHS+VIP
 
 
 vless://5cc24aac-c670-47f8-b799-13ee25293e87@49.13.5.51:43941?mode=gun&security=reality&encryption=none&pbk=3ppu-e7JImBBnb6TgWgRNSPYqeMza9oh8oJm3a3TRGA&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT&sni=cdn.discordapp.com&sid=e1a8ce3d#EHS+VIP
