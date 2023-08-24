@@ -1,6 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-jul26-aug26%E2%97%BE%E2%97%BDupdated+aug24
 
 
+vless://41a9c311-5db4-49c0-deca-644cf468dc65@104.31.16.65:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=po.AhV2ray.fun#EHS+VIP
+
+
 vless://f921efc0-c3a8-4b9e-825d-9b8941ff2c30@162.55.215.186:47679?mode=gun&security=reality&encryption=none&pbk=TdGtnWRoyv-SuJjAM68JJ3ZhOMukpBbfru6lclOxTn0&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=26494967#EHS+VIP
 
 vless://ItsLegendaryking@91.219.148.231:443?mode=gun&security=reality&encryption=none&pbk=zHzIqqhTf6nNg1EfaGQrGS69YG3Y2GNwwe4Bn6XUiAg&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=1b06fba2#EHS+VIP
