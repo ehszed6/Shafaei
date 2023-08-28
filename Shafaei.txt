@@ -1,3 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-aug28
 
 vless://d1b58805-00b1-4d3e-9bb1-1f2ff71240da@128.140.114.115:2087?path=%2Fxbox.com&security=reality&encryption=none&pbk=4D8HMBkGdshhPr2Fnlh4jZOEhqFGtV-9sNUuD08LchE&host=speedtest.net&fp=chrome&spx=%2F&type=http&sni=www.speedtest.net&sid=da4e2d54#EHS+VIP+0
+
+
+
+vless://e05f5fd0-2d00-4458-9901-4030668f7942@49.13.5.51:27305?mode=gun&security=reality&encryption=none&pbk=uXPaWdUp37Al7ukz7zUYhVBrrZn_gRLjJt-KH0dhJUc&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=8d7484f1#EHS+VIP+IRANCELL
