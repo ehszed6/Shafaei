@@ -1,5 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep3
 
+
+vless://57d660d9-27dd-42c0-9402-0ca565c8e2b1@116.203.84.154:11907?mode=gun&security=reality&encryption=none&pbk=ns67GjiVL23QocXiQPNIe8q5AXTFSXuk-uKH4bcrxF0&fp=firefox&spx=%2F&type=grpc&serviceName=Tel : @NuFiLter&sni=www.speedtest.net&sid=5235b36b#EHS+VIP+2
+
 vless://d1b58805-00b1-4d3e-9bb1-1f2ff71240da@128.140.114.115:2087?path=%2Fxbox.com&security=reality&encryption=none&pbk=4D8HMBkGdshhPr2Fnlh4jZOEhqFGtV-9sNUuD08LchE&host=speedtest.net&fp=chrome&spx=%2F&type=http&sni=www.speedtest.net&sid=da4e2d54#EHS+VIP+0
 
 
