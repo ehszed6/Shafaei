@@ -1,5 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep7
 
+vless://ItsLegendaryking@37.27.10.179:443?mode=gun&security=reality&encryption=none&pbk=qz1_x6j06iSvrGWJkGWuFs9RpwhXe8Zcs0MFAkvupTs&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=2fceb00a#EHS+VIP++6
+
 vless://a1a6235e-5924-4844-b60d-5c2d5946728c@[::ffff:5b6b:dda1]:443?security=reality&encryption=none&pbk=AvGzlLyP3Af1pOdGvsuL-OSybEJ8-IY8DlJEhGFXfgk&headerType=none&fp=chrome&spx=%2Fb%2FVideo-Games%2F139973%2Fbn_320034&type=tcp&flow=xtls-rprx-vision&sni=www.ebay.com&sid=cf5fab55#EHS+VIP
 
 
