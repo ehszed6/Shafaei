@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep10
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep11
+
+
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=t3tW57mkn6zjgbJ5KJz-ov_TD2KocwrBjNZz7vtl82g&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=c99a0151#EHS+VIP
+
+vless://ItsLegendaryking@49.13.82.12:443?mode=gun&security=reality&encryption=none&pbk=AhGC7YfnMpf9KEXi8QdunhxgmBTzuksK7LUvQQaXei4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=e206745c#EHS+VIP
 
 
 
