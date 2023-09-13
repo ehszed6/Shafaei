@@ -1,4 +1,7 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep12
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep13
+
+
+vless://8404a6e6-aa3d-477c-bb2f-5bb00ca9b0c3@77.91.84.45:2052?security=reality&encryption=none&pbk=_x7XM19UUxuuM0YUoKJVhEZ-TgolhUFWbKUD_w1mQkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=atrsun.com&sid=bc7a7548044dd31e#EHS+VIP
 
 vless://a3cfd0b3-8bcd-4743-9f73-be2d49f8b27a@all.5g-speed.online:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.vpnxheykh.shop#EHS+VIP
 
