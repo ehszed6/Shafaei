@@ -1,5 +1,11 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep15
 
+vless://7d9b9162-35cd-40bb-a92f-6e0b5ba2b294@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS+VIP
+
+vless://ec279521-4988-4647-bd4a-5cf6ea71c227@all.ArV2ray.host:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS+VIP
+
+vless://JOIN-TELEGRAM-WANCLOUDFA1@128.140.123.139:443?mode=gun&security=reality&encryption=none&pbk=sw6Jv_AJbNOAW5gbzXFknsD4inawjziu_ta6jP0BznI&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=450415a7#EHS+VIP
+
 
 
 vless://ItsLegendaryking@49.13.81.29:443?mode=gun&security=reality&encryption=none&pbk=wacyj1v6LUYcKXlSQgCTFqxIUQNoUFbJf77HNfqF00g&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=bdc7af5d#EHS+VIP
