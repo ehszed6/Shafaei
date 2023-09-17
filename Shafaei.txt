@@ -1,30 +1,7 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep15
 
-vless://7d9b9162-35cd-40bb-a92f-6e0b5ba2b294@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS+VIP
+vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@6544.outline-vpn.cloud:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=jp.vps.wengmail.link&type=ws&sni=jp.vps.wengmail.link#EHS+VIP
 
-vless://ec279521-4988-4647-bd4a-5cf6ea71c227@all.ArV2ray.host:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS+VIP
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#EHS+VIP
 
-vless://JOIN-TELEGRAM-WANCLOUDFA1@128.140.123.139:443?mode=gun&security=reality&encryption=none&pbk=sw6Jv_AJbNOAW5gbzXFknsD4inawjziu_ta6jP0BznI&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=450415a7#EHS+VIP
-
-
-
-vless://ItsLegendaryking@49.13.81.29:443?mode=gun&security=reality&encryption=none&pbk=wacyj1v6LUYcKXlSQgCTFqxIUQNoUFbJf77HNfqF00g&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=bdc7af5d#EHS+VIP
-
-
-vless://ItsLegendaryking@45.87.153.68:443?mode=gun&security=reality&encryption=none&pbk=B2XL7ZfuFWREvMibS57upGT-ASJNWEr8p182befgQEA&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=b103ecb0#EHS+VIP
-
-vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=qCZUdWQZ2H33vWXnOkG8NpxBeq3qn5QWXlfCOWBNkkc&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=up.20script.ir&sid=3400ba65#EHS+VIP
-
-
-vless://TELEGRAM-CONFIG-FREE-WANCLOD@128.140.123.139:443?mode=gun&security=reality&encryption=none&pbk=sw6Jv_AJbNOAW5gbzXFknsD4inawjziu_ta6jP0BznI&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=450415a7#EHS+VIP
-
-
-vless://8404a6e6-aa3d-477c-bb2f-5bb00ca9b0c3@77.91.84.45:2052?security=reality&encryption=none&pbk=_x7XM19UUxuuM0YUoKJVhEZ-TgolhUFWbKUD_w1mQkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=atrsun.com&sid=bc7a7548044dd31e#EHS+VIP
-
-vless://a3cfd0b3-8bcd-4743-9f73-be2d49f8b27a@all.5g-speed.online:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.vpnxheykh.shop#EHS+VIP
-
-vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=hUDB06n5DSa5J5Soj5YD58oJjgIvGvsYRcHnDag5Jio&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=3d0f3905#EHS+VIP
-
-vless://ItsLegendaryking@49.13.82.12:443?mode=gun&security=reality&encryption=none&pbk=Iu1FfzHcOmx88AHpcBJl4AatKeN_MyNbpZIfvZfocRI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=9121001c#EHS+VIP
-
-vless://ItsLegendaryking@49.12.189.56:443?path=%2F&security=reality&encryption=none&pbk=6gwDSMJwBXBLDYEjxULS_s7IJO_VKrHnbjH2g-0U01Y&fp=chrome&type=http&sni=vipremix.ir&sid=512a5c54#EHS+VIP
+vless://e3c633c7-37de-4a73-9064-240b645777bc@vpn.wengmail.link:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sgp.vps.wengmail.link&type=ws&sni=sgp.vps.wengmail.link#EHS+VIP+EHS+VIP
