@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep17
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep18
+
+
+vless://telegram-id-ArV2ray@95.217.25.49:443?mode=gun&security=reality&encryption=none&pbk=vaIvEftIRIYAINp8QHOTAaFB0LlkED-elyCqL6K0Pm0&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=1df47f68#EHS+VIP
+
+vless://telegram-id-ArV2ray@78.47.74.183:443?mode=gun&security=reality&encryption=none&pbk=q_hw9GBI8va2RlMDlveR6bCJ3vma7G0djr13pbYP-Vc&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=22726a55#EHS+VIP
 
 
 vless://f0b379ec-23e0-45ba-8e53-1da8cfcd78b0@[::ffff:808c:7f5d]:443?security=reality&encryption=none&pbk=_TG8VzcSg5yPWfC6b7-wrjafRT7dj6xE4RWx1ktwJgM&headerType=none&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=28ae7d96#EHS+VIP
