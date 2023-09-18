@@ -1,6 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep18
 
 
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=fNOsQEqWQ9ErLlCze0ut6g-PLCVobLzf0JUB_d0o_nI&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=51e8003a#EHS+VIP++6
+
 vless://telegram-id-ArV2ray@95.217.25.49:443?mode=gun&security=reality&encryption=none&pbk=vaIvEftIRIYAINp8QHOTAaFB0LlkED-elyCqL6K0Pm0&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=1df47f68#EHS+VIP
 
 vless://telegram-id-ArV2ray@78.47.74.183:443?mode=gun&security=reality&encryption=none&pbk=q_hw9GBI8va2RlMDlveR6bCJ3vma7G0djr13pbYP-Vc&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=greenpepper.ir&sid=22726a55#EHS+VIP
