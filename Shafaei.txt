@@ -1,6 +1,6 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep20
 
-
+vless://76f75020-1824-4855-9a08-e1714e38cb61@mci.5g-speed.online:2083?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@V2shopVip-@V2shopVip&sni=Loop.v2rayvpn2.sbs#EHS+VIP+0
 
 
 vless://FREE-CONFIG-WANCLOUDFA@wancloudfa.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=m25vzFJ-TeF9qxhFpv5IqyjCyyMDUhhsNSM5k72IwAU&fp=chrome&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=9c4e2f5c#EHS+VIP
