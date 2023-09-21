@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep21
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep22
+
+
+vless://ItsLegendaryking@5.161.49.105:443?mode=gun&security=reality&encryption=none&pbk=3GWx01Y-Mz3tX8Ggeu-VwrZaJQC4RSo4VRgD3IZ8sUc&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=715f549a#EHS+VIP
+
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=YKGZUno7DjwsBwfv6PlgJ4j0A1cChJSN6I0t2C6Uv3s&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=ea053f41#EHS+VIP
 
 
 vless://telegram-id-ArV2ray@65.109.131.217:443?mode=gun&security=reality&encryption=none&pbk=ZVLxvIKKKJaXxzHh-cwQYl4cU_wxXvLcV4G1o9WY5l8&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=gsmarena.com&sid=1df47f68#EHS+VIP
