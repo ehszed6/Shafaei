@@ -1,4 +1,11 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep22 5pm
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep23
+
+
+vless://b88d7007-ecf3-4d79-ba98-e3f4ee3a5f51@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS+VIP
+
+vless://ac8a0b95-17a1-444d-987b-e03cb8e4fe08@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.fun#EHS+VIP
+
+vless://2dab2a91-150b-49d8-9baa-e3fc8462b1f4@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#EHS+VIP
 
 
 vless://telegram-id-ArV2ray@217.69.11.64:443?mode=gun&security=reality&encryption=none&pbk=ewqoPhD1oi9LTZ7xhZ7lpJ1-iuohBxdpwm-207SLMi4&fp=firefox&spx=%2F&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=e0ebcdd6#EHS+VIP
