@@ -1,4 +1,12 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep23
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep24
+
+vless://ItsLegendaryking@49.13.24.200:443?mode=gun&security=reality&encryption=none&pbk=bpF0wpQz2hAZhAlcBsLSr4WfMaGoyBujdCtBTMCl8B4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=f9a3bc0b#EHS+VIP
+
+
+vless://384cac62-a2a9-4f18-b556-cd59156124be@all.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.fun#EHS+VIP
+
+vless://8c68cc5e-43fb-457f-a1be-31cfe705126f@all.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#EHS+VIP
+
 vless://FFREE-CONFIG-WANCLOUDFA@wancloudfa.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=m25vzFJ-TeF9qxhFpv5IqyjCyyMDUhhsNSM5k72IwAU&fp=chrome&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=9c4e2f5c#EHS+VIP
 
 
