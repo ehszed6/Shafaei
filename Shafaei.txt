@@ -1,6 +1,19 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep25
 
 
+
+
+vless://ItsLegendaryking@45.82.13.59:443?mode=gun&security=reality&encryption=none&pbk=aQQ-pZzrQuEWri2LuJvXD90wQGKCJB25wJnsV5oLuy8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=upmusics.com&sid=045acd07#EHS+VIP
+
+
+vless://ItsLegendaryking@49.13.24.200:443?mode=gun&security=reality&encryption=none&pbk=SnVjXpqWBXaAan20mF83pl4OTQonqhuy2S_2NDjUQlA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=upmusics.com&sid=1d94d145#EHS+VIP
+
+vless://FREETELEGRAM-CONFIG-WANCLOUDFA@wancloudfa.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=m25vzFJ-TeF9qxhFpv5IqyjCyyMDUhhsNSM5k72IwAU&fp=chrome&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=9c4e2f5c#EHS+VIP
+
+vless://FFFREE-CONFIG-WANCLOUDFA9584@172.67.81.238:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
+
+vless://FFFREE-CONFIG-WANCLOUDFA9584@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
+
 vless://ItsLegendaryking@45.91.168.94:443?mode=gun&security=reality&encryption=none&pbk=zQ7OSRW5ERMqGkMbh90KodpzrFKBTbd_9IcmbUmYwi0&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=58f7b97d#EHS+VIP
 
 
