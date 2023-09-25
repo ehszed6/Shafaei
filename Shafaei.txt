@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep24
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep25
+
+
+vless://ItsLegendaryking@45.91.168.94:443?mode=gun&security=reality&encryption=none&pbk=zQ7OSRW5ERMqGkMbh90KodpzrFKBTbd_9IcmbUmYwi0&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=58f7b97d#EHS+VIP
+
+
+vless://ItsLegendaryking@45.95.232.9:443?mode=gun&security=reality&encryption=none&pbk=vLdspoQYBsFDuujl6FSHGpPS-oyvSEyExLh_WeHHbGU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=ad31a4fa#EHS+VIP
 
 
 vmess://eyJhZGQiOiI5NS4xNjQuMzQuMjA0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI5NWI0MjRhMi1hZTkyLTQ5ZTgtODM3Yy05OTdiYTVkNTZhN2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk2IiwicHMiOiJFSFMgVklQIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
