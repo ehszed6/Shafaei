@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep29
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-sep30
+
+vless://61b28d00-9bbb-4d9c-c90c-b4f12c50cdcf@[::ffff:808c:5314]:443?security=reality&encryption=none&pbk=P8gGRR8yORVaNd5CMHaTvhYLVgeFMjAHT30pwrQnzks&headerType=none&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=af7d2b9d#EHS+VIP
 
 
 vless://FFFREE-CONFIG-WANCLOUDFA92@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
