@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct1
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct2
+
+vless://ItsLegendaryking@45.82.13.59:443?mode=gun&security=reality&encryption=none&pbk=qv164MXU_F_Fx_gjyHNPDHPeqnXnh0ln7plYYI4RYkI&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=h12.hostdl.com&sid=250d4c2a#EHS+VIP
 
 
 vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@IPSTORE.BUSINESS:443?mode=gun&security=reality&encryption=none&pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&fp=chrome&type=grpc&serviceName=&sni=upmusics.com&sid=57b65cc1b228c7c1#EHS+VIP
