@@ -1,4 +1,6 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct2
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct4
+
+vless://753b1052-1863-4fbb-ae8e-915fddfcef38@genv-appendag3hauntedmansi0n-arsha57seconds.irandarkpro.gq:5010?path=%2F&security=reality&encryption=none&pbk=cSjjOeI5TtcBI0Etz5j8wh2WHPXzVpnrXmcIKZbChXI&host=datadoghq.com&fp=safari&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=http&sni=ftp.debian.org&sid=aba4308f#EHS+VIP
 
 
 vmess://eyJhZGQiOiI1LjE2MS4xNDcuNzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiIzZDFmYWI2ZS0zYmQ2LTQ3MmItOGQ5Yy05OTM0YzA0ZWFmNDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkVIUyBWSVAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
