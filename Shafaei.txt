@@ -2,6 +2,10 @@ vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafa
 
 vless://CONFIGFREE-WANCLOUDFA@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
 
+vless://a1ae13b9-e837-4f1b-960c-e43e2e8e6ebf@all.shhproxy.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site#EHS+VIP
+
+vless://ItsDgNmt@128.140.115.71:443?mode=gun&security=reality&encryption=none&pbk=DAOOqxjgfsyhyXAHXdwV0Ej6oLWopUCEW0308JHfXhc&fp=chrome&type=grpc&serviceName=&sni=greenpepper.ir#EHS+VIP
+
 
 vless://13196bbc-1c11-49c8-a257-0c1cd89100b2@d2dzi2tmmpxmkj.cloudfront.net:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws&sni=d2dzi2tmmpxmkj.cloudfront.net#EHS+VIP
 
