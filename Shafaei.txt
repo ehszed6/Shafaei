@@ -1,4 +1,11 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct4
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct5
+
+vless://CONFIGFREE-WANCLOUDFA@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
+
+
+vless://13196bbc-1c11-49c8-a257-0c1cd89100b2@d2dzi2tmmpxmkj.cloudfront.net:443?path=%2Fcurrent_time&security=tls&encryption=none&type=ws&sni=d2dzi2tmmpxmkj.cloudfront.net#EHS+VIP
+
+vless://ed38f75e-b8c2-4fe3-bbc2-a867a4fc51ba@1armageddon-darkarsha-spykids3-4florason.irandarkpro.gq:5349?security=reality&encryption=none&pbk=1sWUMGpWGw0w3qF9cXn1toV_QSV-_kmOxOSrKkPawi8&host=mega.io&headerType=http&fp=firefox&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=tcp&sni=www.crisisgroup.org&sid=70a42369#EHS+VIP
 
 vless://753b1052-1863-4fbb-ae8e-915fddfcef38@genv-appendag3hauntedmansi0n-arsha57seconds.irandarkpro.gq:5010?path=%2F&security=reality&encryption=none&pbk=cSjjOeI5TtcBI0Etz5j8wh2WHPXzVpnrXmcIKZbChXI&host=datadoghq.com&fp=safari&spx=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&type=http&sni=ftp.debian.org&sid=aba4308f#EHS+VIP
 
