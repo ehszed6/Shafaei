@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct5
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct6
+
+vless://ItsLegendaryking@45.82.13.59:443?mode=gun&security=reality&encryption=none&pbk=7oCQDJkXPZia7Q3kq4LEpntJ31u-vHP-2LheYTBWYx8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=h11.hostdl.com&sid=d83baad7#EHS+VIP
+
+vless://ItsLegendaryking@62.3.12.50:443?mode=gun&security=reality&encryption=none&pbk=teLCKRvysbICmzsbIZiiM_nDRToJS53uON5VGsvy6iQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=0b7b50c0#EHS+VIP
+
+vless://ItsLegendaryking@49.13.24.200:443?mode=gun&security=reality&encryption=none&pbk=dn3ZJzdswW6y8XB2_EiET-qqxpTBWZ6uOCVlqWotu0M&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=upmusics.com&sid=3cd1603f#EHS+VIP
 
 vless://CONFIGFREE-WANCLOUDFA@185.162.228.3:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@wancloudfa&sni=tml.wancloudfa.shop#EHS+VIP
 
