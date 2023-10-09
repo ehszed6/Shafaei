@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct8
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct9
+
+vless://738c5e99-7faa-4893-81a8-4d6655adde36@5.75.209.22:443?mode=gun&security=reality&encryption=none&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&fp=firefox&spx=%2F&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#EHS+VIP
+
+
+vless://94965c9e-8dbe-4cfa-8569-614166c26bd6@channel.digiv2ray.xyz:54764?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#EHS+VIP
 
 vless://telegram-id-ArV2ray@208.76.222.85:443?mode=gun&security=reality&encryption=none&pbk=xuzJIGddsQCcQ7xsSZ8HKF1YAJy3N6PnK7QuA3iYlGs&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=debian.org&sid=fa09cddd#EHS+VIP
 
