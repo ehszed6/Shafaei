@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct11
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct13
+
+
+vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=TEkIDpOZN-Auovz4oLyV8twu7oT_D9Vz9DDl4MxCGm4&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=musictag.ir&sid=50ab7d12#EHS+VIP
+
+vless://ItsLegendaryking@5.161.48.162:443?mode=gun&security=reality&encryption=none&pbk=j5auR1FvSxSyUSP9kNZgnoZOHsJoUwgZYv2h_cs3MCU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=cdn.discordapp.com&sid=255ee874#EHS+VIP
 
 vless://ca3d6cc7-ebcb-436f-b64c-fdf2c25a66ee@49.13.17.241:30426?mode=gun&security=reality&encryption=none&pbk=aRCvnffqCxPmWMHiHTv0MO64Tbdob4SYzPUnEVBIX3c&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=54e21c70#EHS+VIP
 
