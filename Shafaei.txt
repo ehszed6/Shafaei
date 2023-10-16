@@ -1,6 +1,8 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct16
 
 
+vless://83d43bc7-30fb-4477-9775-ff3013257edc@195.245.221.233:2087?mode=multi&security=tls&encryption=none&alpn=h2&fp=firefox&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&sni=insid3outdrishyam1madmax-furyroad.irandarkpro.gq#EHS+VIP
+
 vless://ItsLegendaryking@91.107.207.71:443?mode=gun&security=reality&encryption=none&pbk=zajI8OFplPBt1immTo9QbxnuQyYSbLklf9Ksg8nONi0&fp=chrome&type=grpc&serviceName=&sni=cdn.legenderyking.com#EHS+VIP
 
 
