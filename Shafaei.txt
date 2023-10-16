@@ -1,4 +1,7 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct14
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct16
+
+
+vless://ItsLegendaryking@91.107.207.71:443?mode=gun&security=reality&encryption=none&pbk=zajI8OFplPBt1immTo9QbxnuQyYSbLklf9Ksg8nONi0&fp=chrome&type=grpc&serviceName=&sni=cdn.legenderyking.com#EHS+VIP
 
 
 vless://FREECONFIG-WANCLOUDFA@wancloudfa.ddns.net:2087?mode=gun&security=reality&encryption=none&pbk=0wAR52lsL_iXEegA20hkwC7MK_Oqr18PJQtCCX8RPzU&fp=firefox&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=zula.ir&sid=62782249#EHS+VIP
