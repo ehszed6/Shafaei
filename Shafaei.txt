@@ -1,4 +1,10 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct17
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct18
+
+
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=I8v4O8o2EBGA-VQT318AXcXUwIOq85v1NilVNztUzTI&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=help.mega.io&sid=ecc73050#EHS+VIP++7
+
+
+vless://ItsLegendaryking@49.13.24.200:443?mode=gun&security=reality&encryption=none&pbk=syxnoJoNK2EIdkF4vgq_Q_iBPkNF2kY8HqyehU01Gno&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=d27780ca#EHS+VIP++1
 
 
 vless://telegram-id-v2rayNGup@[::ffff:808c:5314]:443?security=reality&encryption=none&pbk=tJ9BprkBBxC1bPkoRoQKtDNmSlRcSxsWWByiqnkdeRs&headerType=none&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=458580c1#EHS+VIP
