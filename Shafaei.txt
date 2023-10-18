@@ -1,4 +1,11 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct18
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct19
+
+
+vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=BipZIH9LC78Jpq3zqjVkdP9u0OJYDCzIomTrQw7tjXU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=93fe2995#EHS+VIP
+
+vless://ItsLegendaryking@49.13.24.200:443?mode=gun&security=reality&encryption=none&pbk=0OfKgcT2yYbF196VwP4RdNJZMRSORLUBcWzid8tcnjQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=547a0e84#EHS+VIP
+
+vless://CONFIG-WANCLOUDFA@185.162.228.3:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@wancloudfa&sni=wancloud.wancloudfa.shop#EHS+VIP
 
 
 vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=I8v4O8o2EBGA-VQT318AXcXUwIOq85v1NilVNztUzTI&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=help.mega.io&sid=ecc73050#EHS+VIP++7
