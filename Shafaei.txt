@@ -1,6 +1,9 @@
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct20
 
+vless://61d924a6-5e1d-4014-a081-9fb7b55d13bb@91.107.244.181:24478?mode=gun&security=reality&encryption=none&pbk=6Gg9GjutR1MYBNKEjSrkMgsIiIJXUKecm76pxBlXawI&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=25779c03#EHS+VIP
 
+
+vless://61d924a6-5e1d-4014-a081-9fb7b55d13bb@95.216.182.225:24478?mode=gun&security=reality&encryption=none&pbk=6Gg9GjutR1MYBNKEjSrkMgsIiIJXUKecm76pxBlXawI&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=25779c03#EHS+VIP
 
 vless://679a9dfa-333e-4503-a06c-01083e01d2e0@[::ffff:808c:5314]:443?security=reality&encryption=none&pbk=tJ9BprkBBxC1bPkoRoQKtDNmSlRcSxsWWByiqnkdeRs&headerType=none&fp=chrome&spx=%2Fdirectory%2Fgames%2F&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=458580c1#EHS+VIP
 
