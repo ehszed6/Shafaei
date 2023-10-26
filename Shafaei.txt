@@ -1,4 +1,11 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct24
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct26
+
+
+vless://ItsLegendaryking@157.90.150.116:443?security=reality&encryption=none&pbk=5pxuJKjBbVD_KE8sv7oWj87ygIesofx6y-yIWe9mET4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mihanyas.ir&sid=eb1cec8b#EHS
+
+vless://915ec73d-597a-497d-af11-bea0109ed348@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#EHS
+
+vless://telegram-wancloudfa9090@185.162.228.3:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@wancloudfa&sni=wancloud.wancloudfa.shop#EHS
 
 
 vless://41ae91fc-7f40-487b-9433-e8a9e53d60a5@49.13.85.177:14875?mode=gun&security=reality&encryption=none&pbk=tXtvnIrQnitlqjW9Aa3DrX95qho8rmt2PWSzISq4QWQ&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=4d09fa0e#EHS
