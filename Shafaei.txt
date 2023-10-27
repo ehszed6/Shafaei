@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct26
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct27
+
+
+vless://18e2cdde-be89-422d-a4cc-8c6d70133ffc@91.107.206.126:29416?mode=gun&security=reality&encryption=none&pbk=jJsgZ39hik36NI7aBRGBLvRWIsvdo3Wf8xTgs3dcrys&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=c805193e#EHS
+
+vless://ff8f5d7a-96bc-4c7d-8d94-e7624612b412@49.12.243.31:49086?mode=gun&security=reality&encryption=none&pbk=O85EB_PGqdiu2OvHSTaKb6YPi6KptG5oBGZrKPuG_y8&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=e32282c8#EHS
 
 
 vless://ItsLegendaryking@157.90.150.116:443?security=reality&encryption=none&pbk=5pxuJKjBbVD_KE8sv7oWj87ygIesofx6y-yIWe9mET4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mihanyas.ir&sid=eb1cec8b#EHS
