@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct27
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct28
+
+
+vless://f2d3da4c-e909-4957-8e4a-7265cd651ec1@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS
+
+vless://f2d3da4c-e909-4957-8e4a-7265cd651ec1@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS
 
 
 vless://18e2cdde-be89-422d-a4cc-8c6d70133ffc@91.107.206.126:29416?mode=gun&security=reality&encryption=none&pbk=jJsgZ39hik36NI7aBRGBLvRWIsvdo3Wf8xTgs3dcrys&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=c805193e#EHS
