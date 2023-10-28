@@ -1,4 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct28
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct29
+
+
+vless://ItsLegendaryking@45.91.168.94:443?mode=gun&security=reality&encryption=none&pbk=E6rrqinSBBbiK-rkrlyin6i4p5dPcI80hWwAxcaxYmw&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=irandns.com&sid=cee7295d#EHS
+
+vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=FznDfSorgoWTTw-m8cRjlH1uivqNYTbza92Oji-6eHs&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=e1b38223#EHS
 
 
 vless://f2d3da4c-e909-4957-8e4a-7265cd651ec1@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tm.ArV2ray.fun#EHS
