@@ -1,17 +1,9 @@
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#shafaei-oct30 11am
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#Shafaei-Nov1
 
-vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=fq8bRPyQYXXnznxoF16NJJGktCR1JmBdoyZDWQ3gUBI&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=07f153e6#EHS
+vless://f01b54e3-dd2f-4f30-bfaa-2094737c34d6@5.75.209.149:38229?mode=gun&security=reality&encryption=none&pbk=WiiH62rAinHCFvghaPWC3UFhffRvEKigdHxinu5daz0&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=f7ecb66c#EHS
 
-vless://ItsLegendaryking@62.133.63.71:443?mode=gun&security=reality&encryption=none&pbk=2Y-xa2G-Nbv6_t5HF4-RRro5Et3OT62RFwknZ5X3FCo&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=irandns.com&sid=91f27a36#EHS
+vless://005205d2-48a9-4a3e-9901-0b2f34f31400@49.12.243.31:51777?mode=gun&security=reality&encryption=none&pbk=Aj3I2yNOjsgJmR47e2bZwdRyJjOuKWq59tWVjUVwGk8&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=creativecommons.org&sid=4ffc220a#EHS
 
-vless://eb2eb26e-b73c-4910-96aa-0055c522d71a@tel.ArV2ray.host:443?path=%2F&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#EHS
+vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=oCGzmdvKps3hs-YitPyGz7f3kBWDgnPNBRh2ws0PKA0&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=93f67f83#EHS
 
-vless://telegram-id-ArV2ray@95.217.180.229:443?mode=gun&security=reality&encryption=none&pbk=Wd0HNdjf_fN4sR1xIzcTTd-hpVJ54sXYJW1hOE8e00s&fp=firefox&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=ca65bda6#EHS
-
-vless://2da7c20b-4c39-43ff-83f9-8435d2d133c3@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.fun#EHS
-
-
-
-vless://WANCLOUDFA210@49.12.34.150:443?mode=gun&security=reality&encryption=none&pbk=vQ1eVDwMS13rMJt2xKDDmdmb3sepUiv-5aUQOdy9vmg&fp=firefox&spx=%2F&type=grpc&serviceName=@wancloudfa&sni=www.speedtest.net&sid=c283bad7#EHS
-
-vless://c2acfd2a-0092-4fb4-a5a8-ec6979902fd5@5.75.209.149:20061?mode=gun&security=reality&encryption=none&pbk=jJsgZ39hik36NI7aBRGBLvRWIsvdo3Wf8xTgs3dcrys&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=c805193e#EHS
+vless://ItsLegendaryking@168.119.153.222:443?mode=gun&security=reality&encryption=none&pbk=iYn3REJI8VbSi621tBitB2IxOKpPqqdfqMi-IILh5jg&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=b0d0335d#EHS
